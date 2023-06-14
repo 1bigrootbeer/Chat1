@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <title>Black Bouncing Ball</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+  </head>
+
+  <body>
+
+    <div class="ball"></div>
+
+  </body>
+
+</html>
